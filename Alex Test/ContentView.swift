@@ -26,6 +26,7 @@ struct ContentView: View {
                     .background(.blue)
                     .padding()
                     Spacer()
+                    Text("Hello World")
                 }
 
 
